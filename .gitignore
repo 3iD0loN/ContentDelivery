@@ -2,6 +2,9 @@ Library/
 obj/
 Logs/
 Temp/
+NativePluginWindows/x86
+NativePluginWindows/x64
+NativePluginWindows/ARM
 *Intermediate/
 *.csproj
 *.sln
