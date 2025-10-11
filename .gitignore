@@ -12,3 +12,7 @@ Temp/
 *.lib
 *.exp
 *.bsc
+*.exp.*
+*.lib.*
+*.pdb.*
+*.bsc.*
