@@ -5,6 +5,9 @@ Temp/
 NativePluginWindows/x86
 NativePluginWindows/x64
 NativePluginWindows/ARM
+NativePluginWindows/SQLite Amalgam/Release
+NativePluginWindows/SQLite Amalgam/x64
+NativePluginWindows/SQLite Full/x64
 *Intermediate/
 *.csproj
 *.sln
