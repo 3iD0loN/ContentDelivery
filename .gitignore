@@ -2,8 +2,13 @@ Library/
 obj/
 Logs/
 Temp/
+*Intermediate/
 *.csproj
 *.sln
 *.vs
 *.vsconfig
 *.user
+*.pdb
+*.lib
+*.exp
+*.bsc
