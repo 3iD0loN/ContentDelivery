@@ -21,8 +21,8 @@ public class PlayerConfigurator : MonoBehaviour
     /*/
     void Start()
     {
-        ////m_HatsLocationsOpHandle = Addressables.LoadResourceLocationsAsync(m_Keys, Addressables.MergeMode.Intersection);
-        ////m_HatsLocationsOpHandle.Completed += OnHatLocationsLoadComplete;
+        m_HatsLocationsOpHandle = Addressables.LoadResourceLocationsAsync(m_Keys, Addressables.MergeMode.Intersection);
+        m_HatsLocationsOpHandle.Completed += OnHatLocationsLoadComplete;
     }
     
     private void OnHatLocationsLoadComplete(AsyncOperationHandle<IList<IResourceLocation>> asyncOperationHandle)

@@ -1,2 +1,0 @@
-m_EditorVersion: 7000.0.0a28
-m_EditorVersionWithRevision: 7000.0.0a28 (ff98b1c0f472)
