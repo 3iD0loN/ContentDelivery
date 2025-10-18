@@ -1,4 +1,7 @@
-%UDM 0.7
---- &1!d061e40d000000000000000000000000@0
-AssetDescriptor:
-  m_Guid: 490d7ba10c40f7a4ebadc061354f3f1f
+fileFormatVersion: 2
+guid: c063a39e0739215428c57fb433da9196
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
